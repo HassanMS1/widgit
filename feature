@@ -1,7 +1,2 @@
 changed file
-
-
-hello
-
-
-
+changes done by remote
